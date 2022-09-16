@@ -5,7 +5,6 @@
 - 🧑🏽‍💻 Following the path to become a **Full-Stack Developer**
 - 🌱 Currently learning **full stack web development** 
 - ⚡ Fun fact: I’m always listening to <a href="https://www.tomorrowland.com/home/radio">*music*</a> 🎵
-- 🔭 Not working **yet**, **but** you can contact me!! 😁
 
 ##
 
