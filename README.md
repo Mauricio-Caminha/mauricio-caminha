@@ -1,9 +1,8 @@
 ## Hi there! I’m **Maurício** 👋
 > **Live Today, Love Tomorrow and Unite Forever**
 
-- 👨‍🎓 **Computer Science Student** at **UniRitter**
-- 🧑🏽‍💻 Following the path to become a **Full-Stack Developer**
-- 🌱 Currently learning **full stack web development** 
+- 👨‍🎓 **Computer Science Graduate** from **UniRitter**
+- 🧑🏽‍💻 **Full-Stack Developer**
 - ⚡ Fun fact: I’m always listening to <a href="https://www.tomorrowland.com/home/radio">*music*</a> 🎵
 
 ##
