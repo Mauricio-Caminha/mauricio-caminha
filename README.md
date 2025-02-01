@@ -1,7 +1,7 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=495&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;Glad+to+see+you+here!" alt="Typing SVG" />
-   <a href="https://git.io/typing-svg"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="200px" align="right">
-   </a>
+   <a><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="240px" align="right"></a>
+   <br><br>
   <div>
       <a href="https://instagram.com/mauriciocaminha" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a>
       <a href="mailto:mauricio.caminha@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
