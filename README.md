@@ -192,18 +192,18 @@ hobbies: ["Music", "GYM", "Running", "Reading", "Mindfulness"]
    />
    <img 
        align="left" 
-       alt="Python" 
-       title="Python"
+       alt="Oracle" 
+       title="Oracle"
        width="30px" 
-       style="padding-right: 2px;" 
+       style="padding-right: 10px;" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
    />
     <img 
        align="left" 
-       alt="Python" 
-       title="Python"
+       alt="Grafana" 
+       title="Grafana"
        width="30px" 
-       style="padding-right: 0px;" 
+       style="padding-right: 10px;" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
    />
 </p>  
