@@ -195,7 +195,7 @@ hobbies: ["Music", "GYM", "Running", "Reading", "Mindfulness"]
        alt="Python" 
        title="Python"
        width="30px" 
-       style="padding-right: 10px;" 
+       style="padding-right: 2px;" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
    />
     <img 
@@ -203,7 +203,7 @@ hobbies: ["Music", "GYM", "Running", "Reading", "Mindfulness"]
        alt="Python" 
        title="Python"
        width="30px" 
-       style="padding-right: 10px;" 
+       style="padding-right: 0px;" 
        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
    />
 </p>  
